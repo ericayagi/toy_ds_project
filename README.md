@@ -1,2 +1,3 @@
 # toy_ds_project
-This is a project repository for UBC - DSCI 100.
+
+Project Creation Date: Oct 3, 2025
